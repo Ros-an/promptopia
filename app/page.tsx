@@ -1,5 +1,14 @@
 import Image from 'next/image'
 
+// localhost:3000/
+// this may look like a normal component, but it being rendered as SSComponent
+// In NExtjs, app components within app folder are react server component 
+
+// But incase if you want to use a component as a client side, you need to add "use client" directive at top of file
+// whenever  you use hooks/state  or some client side management, it is important to declare it as client side component 'use client'
+// When to use server component and when client ones - 
+// https://nextjs.org/docs/getting-started/react-essentials#when-to-use-server-and-client-components
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
