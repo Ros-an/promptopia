@@ -50,3 +50,10 @@ Its purpose is to simplify some/certain task, allowing developer to concentrate 
 1. Server Side Rendering(SSR)
 2. Static Site Generation(SSG)
 3. Incremental Static Generation(ISG)
+
+**How to improve SEO of your NEXTJS Applications**
+We can define dynamic metadata in two ways
+
+1. Dynamic Metadata
+2. Static Metadata
+   [https://nextjs.org/docs/metadata](https://nextjs.org/docs/app/building-your-application/optimizing/metadata)
