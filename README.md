@@ -52,6 +52,7 @@ Its purpose is to simplify some/certain task, allowing developer to concentrate 
 3. Incremental Static Generation(ISG)
 
 **How to improve SEO of your NEXTJS Applications**
+
 We can define dynamic metadata in two ways
 
 1. Dynamic Metadata
