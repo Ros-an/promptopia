@@ -34,6 +34,7 @@ Q1. So what's the takeaway ??
   - letting us focus on building the essential business logic of the application
  
 **Final Advantage**
+
 Its still just a react.
 Nextjs is not a new technology, its still fundamentally build on top of react.
 Its purpose is to simplify some/certain  task, allowing developer to concentrate on the core react code.
