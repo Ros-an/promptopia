@@ -8,7 +8,7 @@ import Image from 'next/image'
 // whenever  you use hooks/state  or some client side management, it is important to declare it as client side component 'use client'
 // When to use server component and when client ones - 
 // https://nextjs.org/docs/getting-started/react-essentials#when-to-use-server-and-client-components
-
+// https://nextjs.org/docs/app/api-reference/file-conventions
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
