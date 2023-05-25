@@ -13,20 +13,20 @@
   - Q. How this client and server-side rendering affects SEO performance?
   - Q. Why should we priortise SEO?How Nextjs solves this SEO performance issue
 
-    **SEO**
+   **SEO**
 
-    **Routing**
+   **Routing**
 
   - How do we create routing in react and Nextjs and which one is better and why?
 
-    **Its flexibility to create fullstack applications**
+   **Its flexibility to create fullstack applications**
 
   - From Nextjs v9, developer behind Nextjs introduced new feature called - `API Routes`
   - What is API routes? - Enabling the creation of serverless function to handle api requests.
   - What is Serverless API? - In nextjs, are a way of creating api endpoints without the need for a traditional server.
   - look into this, why moving from reactjs to Nextjs is good? [https://leerob.io/blog/react-frameworks](https://leerob.io/blog/react-frameworks)
 
-    **Automatic Code Splitting**
+   **Automatic Code Splitting**
 
   - its a technique that breaks down large bundle of javascript code into smaller, more manageable chunks that can be loaded `as/when needed`.
   - This reduces initial load time of a website, and optimises the user experience while browsing.
