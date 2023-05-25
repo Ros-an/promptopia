@@ -56,4 +56,5 @@ We can define dynamic metadata in two ways
 
 1. Dynamic Metadata
 2. Static Metadata
-   [https://nextjs.org/docs/metadata](https://nextjs.org/docs/app/building-your-application/optimizing/metadata)
+
+[https://nextjs.org/docs/metadata](https://nextjs.org/docs/app/building-your-application/optimizing/metadata)
