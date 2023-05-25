@@ -1,6 +1,3 @@
-// Main Entry point of our application, all component are wrapped within it as its children
-// https://nextjs.org/docs/pages/building-your-application/routing/pages-and-layouts#layout-pattern
-// If you want to add something which is consistent throughout the page, you should add it here. Like - redux toolkit,etc 
 import './globals.css'
 import { Inter } from 'next/font/google'
 
